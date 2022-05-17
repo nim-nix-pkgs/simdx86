@@ -51,11 +51,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1651918425,
-        "narHash": "sha256-aQl0/mzX2lwzJnFv5omZuHxz0En9R/QoafJ4X5qyYE8=",
+        "lastModified": 1652391554,
+        "narHash": "sha256-JJjNMvOCEt/yzsW3sAyF5qRoZcoW2+H11GS6ll6XHmY=",
         "owner": "nim-nix-pkgs",
         "repo": "simdx86",
-        "rev": "43fb78611f41ffc09a5dc329ff2d42870c12c81b",
+        "rev": "003bd153bd11979a5e6652dcc2fbbcb5d0b3efaa",
         "type": "github"
       },
       "original": {
